@@ -1,0 +1,23 @@
+.odd-element{
+    background-color: rgb(255, 150, 200);
+    font-family: Verdana "DejaVu Sans" sans-serif;
+}
+
+.odd-element.bg-px{
+    font-size: 24px;
+}
+
+div{
+    font-family: sans;
+}
+
+#div1{
+    color: hsl(240, 100%, 40%);
+    font-size: 36px;
+}
+
+#div2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
