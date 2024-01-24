@@ -1,6 +1,6 @@
 .odd-element{
     background-color: rgb(255, 150, 200);
-    font-family: Verdana "DejaVu Sans" sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .odd-element.bg-px{
@@ -8,7 +8,7 @@
 }
 
 div{
-    font-family: sans;
+    font-family: sans-serif;
 }
 
 #div1{
